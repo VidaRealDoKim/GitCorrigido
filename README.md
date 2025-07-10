@@ -1,6 +1,6 @@
 # 📁 Atividade em Grupo — Git e GitHub
 
-Projeto colaborativo desenvolvido na unidade curricular de **GitHub** do curso **Técnico em Desenvolvimento de Sistemas - SESI/SENAI SC**, turma **QA CVGG 2025/1 V1**, orientado pelo professor **Irlândio Oliveira**.
+Projeto colaborativo desenvolvido na unidade curricular de **GitHub** do curso **Técnico em Desenvolvimento de Aplicativo - flutter** - SESI/SENAI SC, turma , orientado pelo professor **Irlândio Oliveira**.
 
 ---
 
